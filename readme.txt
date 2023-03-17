@@ -1,0 +1,1 @@
+i am read me file of version 1.2
